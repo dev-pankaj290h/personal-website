@@ -1,0 +1,121 @@
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.top{
+    background-color: aliceblue;
+    position: relative;
+}
+.first-cloud{
+    position:absolute ;
+    
+    margin-left: 20%;
+}
+.second-cloud{
+    position:absolute ;
+}
+h1{
+    font-size: 8rem;
+    margin-top: 0;
+    padding-top: 100px;
+    color: #95DAC1;
+    font-family: 'Ephesis', cursive;
+}
+.head_p{
+    font-size: 3rem;
+    color: #345B63;
+    margin-top: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.hill{
+    height: 35em;
+}
+h2{
+    font-size: 2rem;
+    font-family:'Ubuntu', sans-serif; ;
+    color: #1DB9C3;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 20%;
+    text-align: center;
+    border: 10px dotted #B5DEFF;
+    border-bottom: none;
+} 
+.profile-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+
+}
+ .about-h2{
+    font-size: 2rem;
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+p{
+    font-size: 1.5rem;
+    line-height: 2;
+    
+}
+
+
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #1DB9C3;
+    
+    
+    
+}
+.skill-row{
+    width: 40%;
+    margin: auto;
+    
+    text-align: left;
+    margin-bottom: 85px;
+    margin-top: 85px;
+    
+}
+
+
+.computer-gif{
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.kick-gif{
+    float: right;
+    border-radius: 50%;
+    
+
+}
+.footer{
+    background-color: aquamarine;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: white;
+}
+.footer p{
+    font-size: 1rem;
+    font-family: 'Ubuntu', sans-serif;
+
+}
